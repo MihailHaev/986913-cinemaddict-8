@@ -1,7 +1,8 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Хаваев Михаил](https://up.htmlacademy.ru/ecmascript/8/user/986913).
-* Наставник: `Андрей Рыжаков`.
+* Наставник: [Андрей Рыжаков](https://htmlacademy.ru/profile/id201015)
+.
 
 ---
 
